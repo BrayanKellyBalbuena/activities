@@ -1,15 +1,16 @@
-# activities
-Tarea 2 Diplomado Android UNAPEC
+# Activities  Tarea 2 Diplomado Android UNAPE
 
-# Login
+## Login
 
-![alt text](evidencias/login.png)
+<img src="evidencias/login.png" width="300" height="500"/>
+
+___
+## Profile
 
 
-# Profile
+ 
+<image src="evidencias/profile.png" width="300" heigth="500">
 
-![alt text](evidencias/profile.png)
-
-# Share
-
-![alt text](evidencias/sharing.png)
+___
+## Sharing
+<image src="evidencias/sharing.png" width="300" heigth="500">
