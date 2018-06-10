@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="projects">400</string>
+    <string name="button_share">Compartir</string>
+    <string name="login">Login</string>
+    <string name="login_error_body">Nombre de usuario no valido</string>
+    <string name="login_error_title">Info Dialogo</string>
+</resources>
